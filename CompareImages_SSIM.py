@@ -30,3 +30,4 @@ diff = (diff * 255).astype("uint8")
 # Print only the score
 print("SSIM: {}".format(score))
 
+
